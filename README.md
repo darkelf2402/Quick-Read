@@ -23,3 +23,7 @@ Quick Read is an innovative tool designed to simplify your reading experience by
 4. **Display Summary**: Quick Read displays the summarized text to the user, offering a quick and easy way to digest lengthy articles.
 
 
+# Deployed on Netlify
+https://wondrous-otter-73e91d.netlify.app/
+
+
